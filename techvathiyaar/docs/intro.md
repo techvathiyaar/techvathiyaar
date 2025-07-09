@@ -1,8 +1,9 @@
 ---
 id: intro
-title: Welcome
-sidebar_label: Welcome
+title: Introduction
+sidebar_label: Intro
 ---
+
 
 Welcome to **Tech Vathiyaar** — your guide to writing, documentation, and AI!
 
