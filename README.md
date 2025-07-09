@@ -5,7 +5,7 @@
 This site will help you master:
 
 - ✅ Technical writing
-- ✍️ Blogging (English + தமிழ்)
+- ✍️ Blogging
 - 🧠 UX writing & content strategy
 - ⚙️ API documentation
 - 📹 Content creation & monetization
