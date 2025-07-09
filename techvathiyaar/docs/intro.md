@@ -4,7 +4,14 @@ title: Introduction
 sidebar_label: Intro
 ---
 
+# 🙌 Welcome to Tech Vathiyaar
 
-Welcome to **Tech Vathiyaar** — your guide to writing, documentation, and AI!
+This site will help you master:
 
-Use the sidebar to explore the content.
+- ✅ Technical writing
+- ✍️ Blogging
+- 🧠 UX writing & content strategy
+- ⚙️ API documentation
+- 📹 Content creation & monetization
+
+Stay tuned — we're just getting started!
