@@ -1,0 +1,24 @@
+{
+  "id": "content-strategy",
+  "title": "content-strategy",
+  "description": "",
+  "source": "@site/docs/content-strategy.md",
+  "sourceDirName": ".",
+  "slug": "/content-strategy",
+  "permalink": "/techvathiyaar/docs/content-strategy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/techvathiyaar/techvathiyaar/tree/main/docs/content-strategy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "blogging",
+    "permalink": "/techvathiyaar/docs/blogging"
+  },
+  "next": {
+    "title": "Intro",
+    "permalink": "/techvathiyaar/docs/intro"
+  }
+}

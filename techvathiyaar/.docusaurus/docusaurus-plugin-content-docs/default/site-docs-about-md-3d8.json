@@ -1,0 +1,24 @@
+{
+  "id": "about",
+  "title": "about",
+  "description": "",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/techvathiyaar/docs/about",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/techvathiyaar/techvathiyaar/tree/main/docs/about.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/techvathiyaar/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "api-docs",
+    "permalink": "/techvathiyaar/docs/api-docs"
+  }
+}

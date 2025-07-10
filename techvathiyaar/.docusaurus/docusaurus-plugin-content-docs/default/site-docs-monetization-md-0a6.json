@@ -1,0 +1,24 @@
+{
+  "id": "monetization",
+  "title": "monetization",
+  "description": "",
+  "source": "@site/docs/monetization.md",
+  "sourceDirName": ".",
+  "slug": "/monetization",
+  "permalink": "/techvathiyaar/docs/monetization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/techvathiyaar/techvathiyaar/tree/main/docs/monetization.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/techvathiyaar/docs/intro"
+  },
+  "next": {
+    "title": "multimedia",
+    "permalink": "/techvathiyaar/docs/multimedia"
+  }
+}

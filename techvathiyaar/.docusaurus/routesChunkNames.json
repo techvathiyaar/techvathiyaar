@@ -1,0 +1,305 @@
+{
+  "/techvathiyaar/blog-106": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "4767d75f"
+  },
+  "/techvathiyaar/blog/archive-03b": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "f6b33ca0"
+  },
+  "/techvathiyaar/blog/authors-e76": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "859cf39e"
+  },
+  "/techvathiyaar/blog/authors/all-sebastien-lorber-articles-bfa": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "5fe47c3e"
+  },
+  "/techvathiyaar/blog/authors/yangshun-afb": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "244f571e"
+  },
+  "/techvathiyaar/blog/first-blog-post-8b0": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/techvathiyaar/blog/long-blog-post-16f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/techvathiyaar/blog/mdx-blog-post-ecb": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/techvathiyaar/blog/tags-f5c": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "fb266478"
+  },
+  "/techvathiyaar/blog/tags/docusaurus-a9d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "248768b8"
+  },
+  "/techvathiyaar/blog/tags/facebook-137": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "ea2dbfae"
+  },
+  "/techvathiyaar/blog/tags/hello-21d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "__props": "7f161a18"
+  },
+  "/techvathiyaar/blog/tags/hola-71f": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "d99f168c"
+  },
+  "/techvathiyaar/blog/welcome-9c4": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/techvathiyaar/markdown-page-3e5": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/techvathiyaar/docs-356": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/techvathiyaar/docs-5c6": {
+    "__comp": "a7bd4aaa",
+    "__props": "68706f4f"
+  },
+  "/techvathiyaar/docs-7c5": {
+    "__comp": "a94703ab"
+  },
+  "/techvathiyaar/docs/about-124": {
+    "__comp": "17896441",
+    "content": "3d8d21df"
+  },
+  "/techvathiyaar/docs/api-docs-0e5": {
+    "__comp": "17896441",
+    "content": "175eef2c"
+  },
+  "/techvathiyaar/docs/blogging-2ce": {
+    "__comp": "17896441",
+    "content": "78aad36e"
+  },
+  "/techvathiyaar/docs/category/tutorial---basics-475": {
+    "__comp": "14eb3368",
+    "__props": "7978714e"
+  },
+  "/techvathiyaar/docs/category/tutorial---extras-74a": {
+    "__comp": "14eb3368",
+    "__props": "faf75ab1"
+  },
+  "/techvathiyaar/docs/content-strategy-b18": {
+    "__comp": "17896441",
+    "content": "c0093c48"
+  },
+  "/techvathiyaar/docs/intro-34b": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/techvathiyaar/docs/monetization-598": {
+    "__comp": "17896441",
+    "content": "0a648e31"
+  },
+  "/techvathiyaar/docs/multimedia-1c7": {
+    "__comp": "17896441",
+    "content": "c7fe2186"
+  },
+  "/techvathiyaar/docs/technical-writing-a13": {
+    "__comp": "17896441",
+    "content": "51231084"
+  },
+  "/techvathiyaar/docs/tutorial-basics/congratulations-17e": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/techvathiyaar/docs/tutorial-basics/create-a-blog-post-419": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/techvathiyaar/docs/tutorial-basics/create-a-document-906": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/techvathiyaar/docs/tutorial-basics/create-a-page-f75": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/techvathiyaar/docs/tutorial-basics/deploy-your-site-295": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/techvathiyaar/docs/tutorial-basics/markdown-features-1a2": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/techvathiyaar/docs/tutorial-extras/manage-docs-versions-d2a": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/techvathiyaar/docs/tutorial-extras/translate-your-site-7b6": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/techvathiyaar/docs/ux-writing-e2e": {
+    "__comp": "17896441",
+    "content": "4a6a5b4f"
+  },
+  "/techvathiyaar/-9da": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

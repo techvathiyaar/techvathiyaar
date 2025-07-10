@@ -1,0 +1,20 @@
+{
+  "id": "ux-writing",
+  "title": "ux-writing",
+  "description": "",
+  "source": "@site/docs/ux-writing.md",
+  "sourceDirName": ".",
+  "slug": "/ux-writing",
+  "permalink": "/techvathiyaar/docs/ux-writing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/techvathiyaar/techvathiyaar/tree/main/docs/ux-writing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technical-writing",
+    "permalink": "/techvathiyaar/docs/technical-writing"
+  }
+}
