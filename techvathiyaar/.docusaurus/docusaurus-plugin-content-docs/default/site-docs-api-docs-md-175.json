@@ -1,0 +1,24 @@
+{
+  "id": "api-docs",
+  "title": "api-docs",
+  "description": "",
+  "source": "@site/docs/api-docs.md",
+  "sourceDirName": ".",
+  "slug": "/api-docs",
+  "permalink": "/techvathiyaar/docs/api-docs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/techvathiyaar/techvathiyaar/tree/main/docs/api-docs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "about",
+    "permalink": "/techvathiyaar/docs/about"
+  },
+  "next": {
+    "title": "blogging",
+    "permalink": "/techvathiyaar/docs/blogging"
+  }
+}

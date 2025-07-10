@@ -1,0 +1,24 @@
+{
+  "id": "technical-writing",
+  "title": "technical-writing",
+  "description": "",
+  "source": "@site/docs/technical-writing.md",
+  "sourceDirName": ".",
+  "slug": "/technical-writing",
+  "permalink": "/techvathiyaar/docs/technical-writing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/techvathiyaar/techvathiyaar/tree/main/docs/technical-writing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multimedia",
+    "permalink": "/techvathiyaar/docs/multimedia"
+  },
+  "next": {
+    "title": "ux-writing",
+    "permalink": "/techvathiyaar/docs/ux-writing"
+  }
+}

@@ -8,7 +8,7 @@ const config = {
   tagline: 'Your Guide to Writing, Docs, and AI',
   url: 'https://techvathiyaar.github.io',
   baseUrl: '/techvathiyaar/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon-full-torso.png',
   organizationName: 'techvathiyaar', // GitHub org/user
   projectName: 'techvathiyaar', // GitHub repo
   deploymentBranch: 'gh-pages',
@@ -46,12 +46,12 @@ const config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/tv-lady-logo.jpg', // for social card previews
     navbar: {
       title: 'Tech Vathiyaar',
       logo: {
         alt: 'Tech Vathiyaar Logo',
-        src: 'img/logo.svg',
+        src: 'img/tv-lady-logo-transparent.png',
       },
       items: [
         {
