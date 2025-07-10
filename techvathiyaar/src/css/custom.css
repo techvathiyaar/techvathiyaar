@@ -1,0 +1,93 @@
+/**
+ * Tech Vathiyaar custom theme
+ * Maroon and white branding with yellow accent
+ */
+
+:root {
+  --ifm-color-primary: #800000;
+  --ifm-color-primary-dark: #660000;
+  --ifm-color-primary-darker: #590000;
+  --ifm-color-primary-darkest: #3d0000;
+  --ifm-color-primary-light: #990000;
+  --ifm-color-primary-lighter: #b30000;
+  --ifm-color-primary-lightest: #cc0000;
+
+  --tv-accent-yellow: #f7c300;
+
+  --ifm-background-color: #ffffff;
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-footer-background-color: #800000;
+  --ifm-footer-color: #ffffff;
+  --ifm-link-color: #800000;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(128, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #ffcccc;
+  --ifm-color-primary-dark: #e6b3b3;
+  --ifm-color-primary-darker: #cc9999;
+  --ifm-color-primary-darkest: #b26666;
+  --ifm-color-primary-light: #ffd6d6;
+  --ifm-color-primary-lighter: #ffe0e0;
+  --ifm-color-primary-lightest: #ffeaea;
+
+  --tv-accent-yellow: #ffe066;
+
+  --ifm-background-color: #121212;
+  --ifm-navbar-background-color: #1e1e1e;
+  --ifm-footer-background-color: #660000;
+  --ifm-footer-color: #ffffff;
+  --ifm-link-color: #ff9999;
+
+  --docusaurus-highlighted-code-line-bg: rgba(255, 204, 204, 0.1);
+}
+
+/* Navbar text */
+.navbar__title,
+.navbar__link {
+  color: #800000 !important;
+}
+
+/* Footer overrides */
+.footer {
+  background-color: #800000 !important;
+  color: white !important;
+}
+
+.footer a {
+  color: #ffd6d6 !important;
+}
+
+.footer a:hover {
+  color: #ffffff !important;
+}
+
+/* Buttons */
+.button.button--primary {
+  background-color: var(--ifm-color-primary);
+  color: #ffffff;
+  border-color: var(--ifm-color-primary-dark);
+}
+
+.button.button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+}
+
+/* Optional: Accent buttons or badges */
+.button.button--accent {
+  background-color: var(--tv-accent-yellow);
+  color: #000;
+  border: none;
+}
+
+.button.button--accent:hover {
+  background-color: #ffdb4d;
+}
+
+/* Highlighting */
+.markdown h2 {
+  border-bottom: 2px solid var(--tv-accent-yellow);
+  padding-bottom: 0.3rem;
+}
