@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Deploy your site
-
+Random changes and text added
 Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 
 It builds your site as simple **static HTML, JavaScript and CSS files**.

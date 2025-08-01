@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-
+Random changes and text added
 # Create a Page
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
