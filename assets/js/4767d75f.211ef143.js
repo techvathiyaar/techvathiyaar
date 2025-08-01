@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktechvathiyaar=self.webpackChunktechvathiyaar||[]).push([[2543],{9750:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/techvathiyaar/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
